@@ -1,5 +1,5 @@
 # Pranav_Pranav_HW2
-This repo is for the HW2 of the  multimedia authoring class.- by __Pranav Jain__
+This repo is for the HW2 of the  multimedia authoring class.- by __Pranav Pranav__
 
 # About-
 As we already know what _WWE_ is.
@@ -24,10 +24,6 @@ This team has several memebers including-
 
 # Acknowledge him-
 
-![The Bloodline](images/The_Bloodline_CoverArt.jpeg)
-
-# The Leader-
-
-![Roman Reigns](images/images.jpeg)
+![Roman_Reigns](https://imageio.forbes.com/specials-images/imageserve/66133d983c06150260be048f/Roman-Reigns-vs--Cody-Rhodes--Bloodline-Rules-at-WrestleMania-40/960x0.jpg?format=jpg&width=960)
 
 __The End__
