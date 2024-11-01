@@ -103,7 +103,7 @@ footer {
 
 .sticky_footer {
     height: 80px;
-    background-color: rgba(0, 0, 0, 0.733);
+    background-color: rgba(18, 3, 231, 0.733);
     position: sticky;
     top: 100%;
 }
