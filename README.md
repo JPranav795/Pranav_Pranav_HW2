@@ -11,16 +11,23 @@ __The Bloodline__ debuted in the summer of _2021_ As Roman Reigns Emerged back f
 # Current Status-
 This team has several memebers including-
 
-1. _The Rock_
-2. _Jey Uso_
-3. _Jimmy Uso_
-4. _Jacob Fatu_
-5. _Solo Sikoa_
-6. _Roman Reigns_
-7. _Paul Heyman_
-8. _Sami Zayn_
-9. _Tama Tonga_
-10. _Tonga Loa_
+- _The Rock_
+- _Jey Uso_
+- _Jimmy Uso_
+- _Jacob Fatu_
+- _Solo Sikoa_
+- _Roman Reigns_
+- _Paul Heyman_
+- _Sami Zayn_
+- _Tama Tonga_
+- _Tonga Loa_
 
 # Acknowledge him-
 
+![The Bloodline](images/The_Bloodline_CoverArt.jpeg)
+
+# The Leader-
+
+![Roman Reigns](images/images.jpeg)
+
+__The End__
