@@ -57,7 +57,7 @@ header {
 }
 
 .characters li:hover {
-    box-shadow: 0 220px 0 rgb(255, 0, 0) inset;
+    box-shadow: 0 220px 0 rgb(0, 4, 249) inset;
 }
 
 .characters li h5 {
@@ -103,7 +103,7 @@ footer {
 
 .sticky_footer {
     height: 80px;
-    background-color: rgb(40,37,37);
+    background-color: rgba(0, 0, 0, 0.733);
     position: sticky;
     top: 100%;
 }
