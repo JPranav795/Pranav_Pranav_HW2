@@ -115,7 +115,7 @@ footer {
     width: 100vw;
     height: 100vh;
     background-color: rgba(0,0,0, 0.85);
-    background-image: url('../Images/Roman_LB.jpeg');
+    background-image: url('../Images/Roman_Reigns_Lb.png');
     background-repeat: no-repeat;
     background-size: 55vh;
     background-position: 40px bottom;
@@ -123,23 +123,23 @@ footer {
 }
 
 #lightbox2 {
-    background-image: url('../Images/Paul_LB.jpeg');
+    background-image: url('../Images/Paul_Heyman_Lb.png');
 }
 
 #lightbox3 {
-    background-image: url('../Images/Solo_LB.jpeg');
+    background-image: url('../Images/Solo_Sikoa_Lb.png');
 }
 
 #lightbox4 {
-    background-image: url('../Images/Jimmy_Lb.jpeg');
+    background-image: url('../Images/Jimmy_Uso_lb.png');
 }
 
 #lightbox5 {
-    background-image: url('../Images/Jey_LB.jpeg');
+    background-image: url('../Images/Jey_Uso_lb.png');
 }
 
 #lightbox6 {
-    background-image: url('../Images/Sami_LB.jpeg');
+    background-image: url('../Images/Sami_Zayn_Lb.png');
 }
 
 .lightbox_close {
