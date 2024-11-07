@@ -23,7 +23,7 @@ header {
     width: 100px;
     display: block;
     margin: 0 auto;  
-    /*margin top and bottom, 0. Margin left and right auto */
+    border-radius: 55px;
     box-shadow: 3px 3px 5px rgba(0,0,0,.3);
 }
 
